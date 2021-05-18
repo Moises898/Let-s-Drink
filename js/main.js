@@ -38,4 +38,3 @@ document.addEventListener('touchmove', function(evt) {
   evt.preventDefault();
 });
 
-

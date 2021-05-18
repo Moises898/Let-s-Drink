@@ -2195,7 +2195,7 @@ form .form-help {
     -webkit-box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
-    background: rgba(0, 0, 0, 0.94);
+    background: rgba(0, 0, 0, 0.87);
   }
   .header-main.fade-in a:not(.button) {
     color: #fff;
