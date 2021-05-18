@@ -1,0 +1,13 @@
+<svg width="1441" height="901" xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd">
+ <defs>
+  <linearGradient y2="1" x2="1" y1="0.10469" x1="0.13672" id="svg_9">
+   <stop stop-opacity="0.99609" offset="0" stop-color="#118187"/>
+   <stop stop-opacity="0.99609" offset="1" stop-color="#054549"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m0.181,0.261l1440,0l0,900l-1440,0l0,-900z" fill="none"/>
+  <path id="svg_2" fill="url(#svg_9)" d="m1440,901l-1440,0l0,-690s69.299,2.999 120,10c415.101,57.321 554.157,301.075 860,460c225.762,117.313 460,140 460,140l0,80z"/>
+ </g>
+</svg>
