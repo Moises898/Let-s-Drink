@@ -860,7 +860,7 @@ p:last-child {
   background: -moz-linear-gradient(140deg, #00d7af 25%, #575bde 100%);
   background: -ms-linear-gradient(140deg, #00d7af 25%, #575bde 100%);
   background: -o-linear-gradient(140deg, #00d7af 25%, #575bde 100%);
-  background: linear-gradient(140deg, #00d7af 25%, #575bde 100%);
+  background: linear-gradient(140deg,#09475f 60%, #070707 60%, #09475f 60%);
 }
 
 .bg-gradient-blue {
@@ -1733,8 +1733,9 @@ p:last-child {
   font-size: 0.75rem;
   font-weight: 400;
   line-height: 1rem;
-  opacity: 0.4;
-  padding-bottom: 3rem;
+  opacity: 0.7;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
   text-align: center;
 }
 
