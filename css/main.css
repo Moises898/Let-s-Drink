@@ -860,7 +860,7 @@ p:last-child {
   background: -moz-linear-gradient(140deg, #00d7af 25%, #575bde 100%);
   background: -ms-linear-gradient(140deg, #00d7af 25%, #575bde 100%);
   background: -o-linear-gradient(140deg, #00d7af 25%, #575bde 100%);
-  background: linear-gradient(140deg,#09475f 60%, #070707 60%, #09475f 60%);
+  background: linear-gradient(140deg, #070707 100%, #09475f 60%);
 }
 
 .bg-gradient-blue {
